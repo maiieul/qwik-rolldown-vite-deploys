@@ -25,17 +25,18 @@
   },
   "devDependencies": {
     "@eslint/js": "latest",
-    "@qwik.dev/core": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/core@a037d62",
-    "@qwik.dev/router": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/router@a037d62",
+    "@qwik.dev/core": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/core@8cb8aae",
+    "@qwik.dev/router": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/router@8cb8aae",
     "@types/node": "24.10.0",
     "eslint": "10.0.3",
     "eslint-plugin-qwik": "^2.0.0-beta.35",
     "globals": "17.0.0",
     "prettier": "3.7.4",
+    "qwik-v2-rolldown-lib": "^0.0.3",
     "typescript": "5.9.3",
     "typescript-eslint": "8.56.1",
     "typescript-plugin-css-modules": "latest",
-    "vite": "7.3.1",
+    "vite": "8.0.14",
     "vite-tsconfig-paths": "^4.2.1"
   }
 }

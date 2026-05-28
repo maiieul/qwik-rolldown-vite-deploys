@@ -32,6 +32,9 @@ importers:
       prettier:
         specifier: 3.7.4
         version: 3.7.4
+      qwik-v2-rolldown-lib:
+        specifier: ^0.0.3
+        version: 0.0.3
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -545,7 +548,7 @@ packages:
         optional: true
 
   '@qwik.dev/optimizer@https://pkg.pr.new/QwikDev/qwik/@qwik.dev/optimizer@a037d62':
-    resolution: {integrity: sha512-g3XatudBk2eQoNwYqQ4gbNDqdREo9H0JdXG9i7zldmI5WhhtGAQub/whbpsqxuSJn5wUoB/0BVGm4MJe/HZXqg==, tarball: https://pkg.pr.new/QwikDev/qwik/@qwik.dev/optimizer@a037d62}
+    resolution: {tarball: https://pkg.pr.new/QwikDev/qwik/@qwik.dev/optimizer@a037d62}
     version: 2.1.0-beta.4
     engines: {node: ^20.3.0 || >=21.0.0}
 
@@ -1927,6 +1930,10 @@ packages:
   punycode@2.3.1:
     resolution: {integrity: sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==}
     engines: {node: '>=6'}
+
+  qwik-v2-rolldown-lib@0.0.3:
+    resolution: {integrity: sha512-3QknsJueT6lSRKoGp/5KcPLV8c/y+iISWvkEl2jpn0XzbfbOFhNguMPG27+0A16nLQ3JQ9oacay2i5saRQA3Cw==}
+    engines: {node: ^18.17.0 || ^20.3.0 || >=21.0.0}
 
   readdirp@5.0.0:
     resolution: {integrity: sha512-9u/XQ1pvrQtYyMpZe7DXKv2p5CNvyVwzUB6uhLAnQwHMSgKMBR62lc7AHljaeteeHXn11XTAaLLUVZYVZyuRBQ==}
@@ -4529,6 +4536,8 @@ snapshots:
     optional: true
 
   punycode@2.3.1: {}
+
+  qwik-v2-rolldown-lib@0.0.3: {}
 
   readdirp@5.0.0: {}
 

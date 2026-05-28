@@ -1,5 +1,6 @@
 import type { DocumentHead } from "@qwik.dev/router";
 import { component$ } from "@qwik.dev/core";
+import { Counter } from "qwik-v2-rolldown-lib";
 
 export default component$(() => {
   return (
@@ -10,6 +11,7 @@ export default component$(() => {
         <br />
         Happy coding.
       </div>
+      <Counter />
     </>
   );
 });
