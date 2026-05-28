@@ -25,8 +25,8 @@
   },
   "devDependencies": {
     "@eslint/js": "latest",
-    "@qwik.dev/core": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/core@8cb8aae",
-    "@qwik.dev/router": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/router@8cb8aae",
+    "@qwik.dev/core": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/core@2e66eb3",
+    "@qwik.dev/router": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/router@2e66eb3",
     "@types/node": "24.10.0",
     "eslint": "10.0.3",
     "eslint-plugin-qwik": "^2.0.0-beta.35",
